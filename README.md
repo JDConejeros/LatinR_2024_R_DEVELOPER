@@ -39,6 +39,10 @@ library(usethis)
 
 # install.packages("usethis")
 
+library(roxygen2)
+
+# install.packages("roxygen2")
+
 library(testthat)
 
 # install.packages("testthat")
