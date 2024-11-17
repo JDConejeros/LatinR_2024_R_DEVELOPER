@@ -10,6 +10,9 @@
 
 - CRAN INCOMING DASHBOARD: https://r-hub.github.io/cransays/articles/dashboard.html
 
+- chatgpt: https://chatgpt.com/
+
+
 ### REQUERIMIENTOS TECNICOS
 
 - R Programming Language Download R-4.4.2 for Windows (83 megabytes, 64 bit), Linux o Mac
