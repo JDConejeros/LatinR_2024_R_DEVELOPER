@@ -1,6 +1,6 @@
 ## Latin R 2024
 ## Desarrollo de paquetes (Packages) en R: Desde la Idea hasta la Implementación y Distribución
-## Ponente: Renzo Cáceres Rossi (arenzocaceresrossi@gmail.com)
+### Ponente: Renzo Cáceres Rossi (arenzocaceresrossi@gmail.com)
 
 ### urls a utilizar en la demostración
 
