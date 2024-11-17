@@ -24,6 +24,25 @@ library(pkgdown)
 
 # install.packages("pkgdown")
 
+
+library(roxygen2)
+
+# install.packages("roxygen2")
+
+library(hexSticker)
+
+# install.packages("hexSticker")
+
+library(cowplot)
+
+# install.packages("cowplot")
+
+library(showtext)
+
+# install.packages("showtext")
+
+
+
 # Load data sets packages
 
 library(datasets)
