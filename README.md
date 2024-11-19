@@ -14,6 +14,8 @@
 
 - sampledatasets: https://lightbluetitan.github.io/sampledatasets/
 
+- repositorio sampledatasets pkg: https://github.com/lightbluetitan/sampledatasets
+
 
 ### REQUERIMIENTOS TECNICOS
 
