@@ -12,6 +12,8 @@
 
 - chatgpt: https://chatgpt.com/
 
+- sampledatasets: https://lightbluetitan.github.io/sampledatasets/
+
 
 ### REQUERIMIENTOS TECNICOS
 
